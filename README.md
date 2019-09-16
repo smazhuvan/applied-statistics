@@ -1,4 +1,4 @@
-# applied-statistics
+# Applied Statistics
 Creating this repository to brief out as a blog on what I am reading about Applied Statistics
 
 > Descriptive Statistics <br>
